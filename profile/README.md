@@ -8,9 +8,10 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonoidDev&hide=contribs,prs) -->
 
-We are a group of engineers and creators. Our daily life be like:
+We are a group of engineers and creators.
+<!-- Our daily life be like:
 
-![Meme](https://random-memer.herokuapp.com/ "Please refresh the page if the meme doesn't show up.")
+![Meme](https://random-memer.herokuapp.com/ "Please refresh the page if the meme doesn't show up.") -->
 
 The repositories we are working on recently include:
 
