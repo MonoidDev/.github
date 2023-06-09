@@ -24,5 +24,3 @@ We are more than happy to accept questions, comments and pull requests to these 
 To know more about us, e.g. to learn about the commercial projects we recently work on, please visit our [official website](https://www.monoid.co.jp/).
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zm5uc2cscezvqgqwytjwatpbuq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
