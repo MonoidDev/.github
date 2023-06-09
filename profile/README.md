@@ -17,7 +17,8 @@ The repositories we are working on recently include:
 
 1. [clone-postgresql-action](https://github.com/MonoidDev/clone-postgresql-action)
 2. [split-pages](https://github.com/MonoidDev/split-pages)
-3. ... and many more! Check out the full list of our repositories below!
+3. [mobx-zod-form](https://github.com/MonoidDev/mobx-zod-form)
+4. ... and many more! Check out the full list of our repositories below!
 
 We are more than happy to accept questions, comments and pull requests to these repos! Please feel free to reach out to us if you would like to contribute.
 
